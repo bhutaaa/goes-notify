@@ -1,11 +1,11 @@
 {
-  "current_interview_date_str": "",
-  "enrollment_location_id": "",
+  "current_interview_date_str": "June 29, 2023",
+  "enrollment_location_id": "8120",
   "logfile": "",
 
-  "email_from": "",
+  "email_from": "bhuta.arvind@gmail.com",
   "email_display_name": "GOES-notify Alerts",
-  "email_to": [""],
+  "email_to": ["bhuta.arvind@gmail.com"],
   "email_server": "localhost",
   "email_port": 25,
   "email_username": "",
